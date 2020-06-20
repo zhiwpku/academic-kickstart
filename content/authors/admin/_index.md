@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Mathematics and Applied Mathematics
+  - course: B.S. in Mathematics and Applied Mathematics
     institution: Peking University
     year: 2016
 #  - course: PhD in Artificial Intelligence
@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:zhi.wang@columbia.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhi.wang@columbia.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

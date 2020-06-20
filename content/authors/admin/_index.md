@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Statistical Machine Learning
   - Latent Variabel Modelling
-  - Logitudinal Data Analysis
+  - Longitudinal Data Analysis
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval

@@ -1,11 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An exploratory analysis of the latent structure of process data via action sequence autoencoders"
-authors: ["Xueying Tang", "Zhi Wang", "Jingchen Liu", "Zhiliang Ying"]
-#date: 2020-06-21T11:34:06-04:00
-date: "2020-05-22"
-doi: "10.1111/bmsp.12203"
+title: "Sums of possibly associated multivariate indicator functions: The Conway–Maxwell-Multinomial distribution"
+authors: ["Joseph B. Kadane", "Zhi Wang"]
+date: "2018-06-08"
+doi: "10.1214/17-BJPS355"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-21"
@@ -17,16 +16,16 @@ publishDate: "2020-06-21"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Journal of Mathematical and Statistical Psychology"
-publication_short: "BJMSP"
+publication: "Brazilian Journal of Probability and Statistics"
+publication_short: "BJPS"
 
-abstract: "Computer simulations have become a popular tool for assessing complex skills such as problem‐solving. Log files of computer‐based items record the human–computer interactive processes for each respondent in full. The response processes are very diverse, noisy, and of non‐standard formats. Few generic methods have been developed to exploit the information contained in process data. In this paper we propose a method to extract latent variables from process data. The method utilizes a sequence‐to‐sequence autoencoder to compress response processes into standard numerical vectors. It does not require prior knowledge of the specific items and human–computer interaction patterns. The proposed method is applied to both simulated and real process data to demonstrate that the resulting latent variables extract useful information from the response processes."
+abstract: "The Conway–Maxwell-Multinomial distribution is studied in this paper. Its properties are demonstrated, including sufficient statistics and conditions for the propriety of posterior distributions derived from it. An application is given using data from Mendel’s ground-breaking genetic studies."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["autoencoder", "feature extraction", "recurrent neural network"]
-categories: ["stat.ML", "stat.AP"]
+tags: ["conjugate prior", "proper prior", "natural exponential family"]
+categories: []
 featured: false
 
 # Custom links (optional).
@@ -37,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1908.06075.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

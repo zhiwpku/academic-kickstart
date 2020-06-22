@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Statistical Machine Learning
-  - Latent Variabel Modelling
+  - Latent Variable Modeling
   - Longitudinal Data Analysis
 # - Artificial Intelligence
 # - Computational Linguistics
@@ -76,3 +76,4 @@ email: "zhi.wang@columbia.edu"
 # - Visitors
 ---
 
+I'm a fourth year Ph.D. student at [Department of Statistics](http://stat.columbia.edu/), Columbia University. I work with [Prof. Jingchen Liu](http://stat.columbia.edu/~jcliu/) and [Prof. Zhiliang Ying](http://stat.columbia.edu/~zying/) on statistical learning for [process data](http://scientifichpc.com/processdata/) and its application in [pychometrics](https://www.psychometricsociety.org/).

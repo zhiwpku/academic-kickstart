@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exploratory analysis of process data through a predictive model"
+title: "Subtask analysis of process data through a predictive model"
 authors: ["Zhi Wang", "Xueying Tang", "Jingchen Liu", "Zhiliang Ying"]
 date: ""
 doi: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Shannon entropy", "sequence segmentation", "subtask identification"]
 categories: []
 featured: false
 
